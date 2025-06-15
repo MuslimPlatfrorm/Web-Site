@@ -220,7 +220,7 @@
             transform: translateX(8px);
             box-shadow: 0 6px 20px rgba(245, 158, 11, 0.3);
             /* NEW: Add text shadow to white text for better contrast */
-            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+            
         }
 
         .qalqala-detail {
